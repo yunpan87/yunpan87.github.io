@@ -2660,14 +2660,14 @@ button,
       padding: 1em;
       border-radius: 4px;
       border-bottom: 0;
-      color: #ffffff;
+      color: #1a1a1a;
       text-align: center;
       text-decoration: none;
       z-index: 3; }
       .tiles article > a > :last-child {
         margin: 0; }
       .tiles article > a:hover {
-        color: #ffffff !important; }
+        color: #1a1a1a !important; }
       .tiles article > a h2 {
         margin: 0; }
       .tiles article > a .content {
