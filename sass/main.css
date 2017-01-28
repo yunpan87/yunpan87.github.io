@@ -2774,9 +2774,9 @@ button,
       padding: 20px; }
     .pagination-container .pagination.disabled a {
       cursor: default;
-      color: #f6f6f6; }
+      color: #161616; }
       .pagination-container .pagination.disabled a:hover {
-        color: #f6f6f6 !important; }
+        color: #161616 !important; }
 
 #main .inner .gallery-container {
   width: 100%;
@@ -3051,7 +3051,7 @@ body.is-menu-visible #menu {
 /* Footer */
 #footer {
   padding: 5em 0 6em 0 ;
-  background-color: #f6f6f6; }
+  background-color: #161616; }
   #footer > .inner {
     display: -moz-flex;
     display: -webkit-flex;
